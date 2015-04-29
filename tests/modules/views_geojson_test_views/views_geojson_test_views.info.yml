@@ -1,0 +1,8 @@
+name: 'Views GeoJSON test views'
+type: module
+description: 'Provides default views for Views GeoJSON tests.'
+package: Testing
+core: 8.x
+dependencies:
+  - rest
+  - views
